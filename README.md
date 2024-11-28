@@ -11,5 +11,6 @@ Si vous avez des demandes ou des cours à ajouter, n'hésitez à ouvrir une [iss
 
 ## OCaml
 * [Documentation officielle](https://ocaml.org/docs)
+* [Cours](https://ocaml.gelez.xyz/)
 * [Exercices](https://ocaml.org/exercises)
 * [Livres](https://ocaml.org/books)

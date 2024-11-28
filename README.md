@@ -31,3 +31,7 @@ Si vous avez des demandes ou des cours à ajouter, n'hésitez à ouvrir une [iss
 Notions à rajouter :
 * Exercices corrigés en maths discrètes ne venant pas de SU
 * Généricité en C
+
+Contributeurs / Contributrices :
+* Mécène de l'ombre
+* Matéo

@@ -1,7 +1,7 @@
 # SU_Info_S3
-Ressources de révisions pour le S3 d'informatique à SU
+Ressources de révisions pour le S3 d'informatique à SU.
 
-Si vous avez des demandes ou des cours à ajouter, n'hésitez à ouvrir une [issue](https://github.com/matburnx/SU_Info_S3/issues) et je répondrai au plus vite.
+Si vous avez des demandes ou des cours à ajouter, n'hésitez pas à ouvrir une [issue](https://github.com/matburnx/SU_Info_S3/issues) ou me contacter en privé et je répondrai au plus vite.
 
 ## Général
 * [Notion avec un peu de tout](https://uncovered-trail-8e0.notion.site/INFORMATIQUE-f04f79ad7d5d4bccbafec5c7aab544a8)
@@ -21,6 +21,7 @@ Si vous avez des demandes ou des cours à ajouter, n'hésitez à ouvrir une [iss
 * [Site de l'UE](https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2024/ue/LU2IN005-2024oct/index.php)
 * [Cours YouTube (en français)](https://www.youtube.com/playlist?list=PLqcerf5fMKqjzLAoZq4WGhwQ92oopA1-F)
 * [Cours YouTube très complet (en anglais)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+* [Livre utilisé pour l'UE (en anglais)](https://www.irif.fr/~ig/MCS.html)
 
 ## OCaml
 * [Ressources de l'UE de 2023](https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2023/ue/LU2IN019-2023oct/)

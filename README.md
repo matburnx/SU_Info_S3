@@ -19,12 +19,15 @@ Si vous avez des demandes ou des cours à ajouter, n'hésitez pas à ouvrir une 
 
 ## Maths discrètes
 * [Site de l'UE](https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2024/ue/LU2IN005-2024oct/index.php)
+* [Site de l'UE 2010](https://www.liafa.jussieu.fr/~ig/l2.html)
 * [Cours YouTube (en français)](https://www.youtube.com/playlist?list=PLqcerf5fMKqjzLAoZq4WGhwQ92oopA1-F)
 * [Cours YouTube très complet (en anglais)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 * [Livre utilisé pour l'UE (en anglais)](https://www.irif.fr/~ig/MCS.html)
+* [Mathématiques pour l'informatique](https://www.liafa.jussieu.fr/~ig/mathinfo.html)
 
 ## OCaml
-* [Ressources de l'UE de 2023](https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2023/ue/LU2IN019-2023oct/)
+* [Site de l'UE 2023](https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2023/ue/LU2IN019-2023oct/)
+* [Site de l'UE 2021](https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2021/ue/LU2IN019-2021oct/)
 * [Documentation officielle](https://ocaml.org/docs)
 * [Cours](https://ocaml.gelez.xyz/)
 * [Exercices](https://ocaml.org/exercises)

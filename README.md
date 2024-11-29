@@ -18,6 +18,7 @@ Si vous avez des demandes ou des cours à ajouter, n'hésitez à ouvrir une [iss
 * [CM enregistrés de SU](https://www.youtube.com/playlist?list=PLRF7gAYuqQ1PKcBTlJuwt9I4Y5A6zxFcb) 
 
 ## Maths discrètes
+* [Site de l'UE](https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2024/ue/LU2IN005-2024oct/index.php)
 * [Cours YouTube (en français)](https://www.youtube.com/playlist?list=PLqcerf5fMKqjzLAoZq4WGhwQ92oopA1-F)
 * [Cours YouTube très complet (en anglais)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 

@@ -5,7 +5,7 @@ Si vous avez des demandes ou des cours à ajouter, n'hésitez pas à ouvrir une 
 
 ## Général
 * [Notion avec un peu de tout](https://uncovered-trail-8e0.notion.site/INFORMATIQUE-f04f79ad7d5d4bccbafec5c7aab544a8)
-* [Archive GDrive](https://drive.google.com/file/d/1epG5h0vuCu3A-SUphYO1Vc1W9zzkrUbo/view)
+* [Archive GDrive (zip à télécharger)](https://drive.google.com/file/d/1epG5h0vuCu3A-SUphYO1Vc1W9zzkrUbo/view)
 
 ## C
 * [Listes chaînées](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/19733-stockez-les-donnees-avec-les-listes-chainees)

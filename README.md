@@ -8,6 +8,7 @@ Si vous avez des demandes ou des cours à ajouter, n'hésitez pas à ouvrir une 
 * [GDrive de la promo 2023](https://drive.google.com/drive/folders/17AxyugaeV_eoo78E-xsduDYQIVjDn4UK)
 
 ## C
+* [Site de l'UE (2021)](https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2021/ue/LU2IN018-2021oct/)
 * [Listes chaînées](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/19733-stockez-les-donnees-avec-les-listes-chainees)
 * [Files et piles](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/19868-controlez-lajout-delements-avec-les-piles-et-les-files)
 * [Manipulation de fichiers](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/16421-manipulez-des-fichiers-a-laide-de-fonctions)

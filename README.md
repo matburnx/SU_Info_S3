@@ -6,7 +6,9 @@ Si vous avez des demandes ou des cours à ajouter, n'hésitez pas à ouvrir une 
 ## Général
 * [Notion avec un peu de tout](https://uncovered-trail-8e0.notion.site/INFORMATIQUE-f04f79ad7d5d4bccbafec5c7aab544a8)
 * [GDrive de la promo 2023](https://drive.google.com/drive/folders/17AxyugaeV_eoo78E-xsduDYQIVjDn4UK)
-
+<details>
+ <summary>Semestre 3</summary>
+  
 ## C
 * [Site de l'UE (2021)](https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2021/ue/LU2IN018-2021oct/)
 * [Listes chaînées](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/19733-stockez-les-donnees-avec-les-listes-chainees)
@@ -33,10 +35,13 @@ Si vous avez des demandes ou des cours à ajouter, n'hésitez pas à ouvrir une 
 * [Cours](https://ocaml.gelez.xyz/)
 * [Exercices](https://ocaml.org/exercises)
 * [Livres](https://ocaml.org/books)
+</details>
 
-Notions à rajouter :
-* Exercices corrigés en maths discrètes ne venant pas de SU
-* Généricité en C
+<details>
+  <summary>Semestre 4</summary>
+</details>
+
+---
 
 Contributeurs / Contributrices :
 * Mécène de l'ombre

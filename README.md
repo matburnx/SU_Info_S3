@@ -1,5 +1,5 @@
-# SU_Info_S3
-Ressources de révisions pour le S3 d'informatique à SU.
+# SU_Info
+Ressources de révisions pour la licence d'informatique à SU.
 
 Si vous avez des demandes ou des cours à ajouter, n'hésitez pas à ouvrir une [issue](https://github.com/matburnx/SU_Info_S3/issues) ou me contacter en privé et je répondrai au plus vite.
 

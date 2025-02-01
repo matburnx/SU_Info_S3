@@ -1,6 +1,0 @@
-4.4
-a) Appuyer sur Tab pour compléter le nom de la commande/du fichier lorsqu'il n'y a qu'une option
-
-b) Nous indentons pour améliorer la lisibilité
-
-c) Faciliter la correction de bugs et de fautes de syntaxe
